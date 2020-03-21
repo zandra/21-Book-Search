@@ -1,0 +1,855 @@
+[{
+    "kind": "books#volume",
+    "id": "Os_GDwAAQBAJ",
+    "etag": "+o0GrlQmLOs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Os_GDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Agency",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Berkley",
+      "publishedDate": "2020",
+      "description": "In William Gibson's first novel since 2014's bestselling \"The Peripheral,\" a gifted \"app-whisperer,\" hired to beta test a mysterious new product, finds her life endangered by her relationship with her surprisingly street-smart and combat-savvy digital assistant. Residence: Vancouver, B.C. Print run 150,000.",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9781101986936"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "110198693X"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 416,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 3,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Os_GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Os_GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=Os_GDwAAQBAJ&printsec=frontcover&dq=william+gibson&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=Os_GDwAAQBAJ&dq=william+gibson&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Agency.html?hl=&id=Os_GDwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Os_GDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "In William Gibson&#39;s first novel since 2014&#39;s bestselling &quot;The Peripheral,&quot; a gifted &quot;app-whisperer,&quot; hired to beta test a mysterious new product, finds her life endangered by her relationship with her surprisingly street-smart and combat ..."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "5GvWmQKLchQC",
+    "etag": "JMWTVufV7tM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5GvWmQKLchQC",
+    "volumeInfo": {
+      "title": "Pattern Recognition",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin UK",
+      "publishedDate": "2004-06-24",
+      "description": "Pattern Recognition - a pulsating techno-thriller by William Gibson, bestselling author of Neuromancer Cayce Pollard has been flown to London. She's a 'coolhunter' - her services for hire to global corporations desperate for certainty in a capricious and uncertain world. Now she's been offered a special project: track down the makers of the addictive online film that's lighting up the 'net. Hunting the source will take her to Tokyo and Moscow and put her in the sights of Japanese computer crazies and Russian Mafia men. She's up against those who want to control the film, to own it - who figure breaking the law is just another business strategy. The kind of people who relish turning the hunter into the hunted . . . William Gibson is a prophet and a satirist, a black comedian and an outstanding architect of cool. Readers of Neal Stephenson, Ray Bradbury and Iain M. Banks will love this book. Pattern Recognition is the first novel in the Blue Ant trilogy - read Spook Country and Zero History for more. 'A big novel, full of bold ideas . . . races along like an expert thriller' GQ 'Dangerously hip. Its dialogue and characterization will amaze you. A wonderfully detailed, reckless journey of espionage and lies' USA Today 'A compelling, humane story with a sympathetic heroine searching for meaning and consolation in a post-everything world' Daily Telegraph Idoru is a gripping techno-thriller by William Gibson, bestselling author of Neuromancer 'Fast, witty and cleverly politicized' Guardian",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9780141904467"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0141904461"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 368,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3.5,
+      "ratingsCount": 79,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.10.10.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=5GvWmQKLchQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=5GvWmQKLchQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=5GvWmQKLchQC&printsec=frontcover&dq=william+gibson&hl=&cd=2&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=5GvWmQKLchQC&dq=william+gibson&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Pattern_Recognition.html?hl=&id=5GvWmQKLchQC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Pattern_Recognition-sample-epub.acsm?id=5GvWmQKLchQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=5GvWmQKLchQC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Readers of Neal Stephenson, Ray Bradbury and Iain M. Banks will love this book. Pattern Recognition is the first novel in the Blue Ant trilogy - read Spook Country and Zero History for more."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "nFCLDQAAQBAJ",
+    "etag": "bat6FcDn6pk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nFCLDQAAQBAJ",
+    "volumeInfo": {
+      "title": "Distrust That Particular Flavor",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2012",
+      "description": "A collection of nonfiction writings includes essays discussing the Singapore trial of a drug trafficker, what's wrong with the Internet, and how music documents modern culture.",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9780425252994"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "042525299X"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 259,
+      "printType": "BOOK",
+      "categories": [
+        "Literary Collections"
+      ],
+      "averageRating": 3,
+      "ratingsCount": 13,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=nFCLDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=nFCLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=nFCLDQAAQBAJ&printsec=frontcover&dq=william+gibson&hl=&cd=3&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=nFCLDQAAQBAJ&dq=william+gibson&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Distrust_That_Particular_Flavor.html?hl=&id=nFCLDQAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=nFCLDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "A collection of nonfiction writings includes essays discussing the Singapore trial of a drug trafficker, what&#39;s wrong with the Internet, and how music documents modern culture."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "_zhwTYftf-sC",
+    "etag": "GVg1yD4yx4o",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/_zhwTYftf-sC",
+    "volumeInfo": {
+      "title": "Zero History",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2010-09-07",
+      "description": "Hollis Henry never intended to work for global marketing magnate Hubertus Bigend again. But now she’s broke, and Bigend has just the thing to get her back in the game... Milgrim can disappear in almost any setting, and his Russian is perfectly idiomatic—so much so that he spoke it with his therapist in the secret Swiss clinic where Bigend paid for him to be cured of his addiction... Garreth doesn't owe Bigend a thing. But he does have friends from whom he can call in the kinds of favors powerful people need when things go sideways... They all have something Bigend wants as he finds himself outmaneuvered and adrift, after a Department of Defense contract for combat-wear turns out to be the gateway drug for arms dealers so shadowy they can out-Bigend Bigend himself. “Zero History is [Gibson’s] best yet, a triumph of science fiction as social criticism and adventure.”—BoingBoing.net",
+      "industryIdentifiers": [{
+          "type": "ISBN_10",
+          "identifier": "1101443316"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781101443316"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 544,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3.5,
+      "ratingsCount": 1263,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "0.8.9.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=_zhwTYftf-sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=_zhwTYftf-sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=_zhwTYftf-sC&printsec=frontcover&dq=william+gibson&hl=&cd=4&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=_zhwTYftf-sC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_zhwTYftf-sC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 6.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 6.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=_zhwTYftf-sC&rdid=book-_zhwTYftf-sC&rdot=1&source=gbs_api",
+      "offers": [{
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 6990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 6990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Zero_History-sample-epub.acsm?id=_zhwTYftf-sC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=_zhwTYftf-sC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Hollis Henry never intended to work for global marketing magnate Hubertus Bigend again."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "IDFfMPW32hQC",
+    "etag": "HTet01VgHQo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/IDFfMPW32hQC",
+    "volumeInfo": {
+      "title": "Neuromancer",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2000",
+      "description": "Case, a burned-out computer whiz, is asked to steal a security code that is locked in the most heavily guarded databank in the solar system, in a new edition of the influential Hugo, Nebula, and Philip K. Dick Award winner. Reprint.",
+      "industryIdentifiers": [{
+          "type": "ISBN_10",
+          "identifier": "0441007465"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780441007462"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 276,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3,
+      "ratingsCount": 247,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.0.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=IDFfMPW32hQC&printsec=frontcover&dq=william+gibson&hl=&cd=5&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=IDFfMPW32hQC&dq=william+gibson&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Neuromancer.html?hl=&id=IDFfMPW32hQC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": false
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=IDFfMPW32hQC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Case, a burned-out computer whiz, is asked to steal a security code that is locked in the most heavily guarded databank in the solar system, in a new edition of the influential Hugo, Nebula, and Philip K. Dick Award winner. Reprint."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "SLaQAwAAQBAJ",
+    "etag": "+sQZLvjqXjo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SLaQAwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Peripheral",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2014-10-28",
+      "description": "The New York Times bestselling author of Neuromancer and Agency presents a fast-paced sci-fi thriller that takes a terrifying look into the future... Flynne Fisher lives down a country road, in a rural America where jobs are scarce, unless you count illegal drug manufacture, which she’s trying to avoid. Her brother Burton lives on money from the Veterans Administration, for neurological damage suffered in the Marines’ elite Haptic Recon unit. Flynne earns what she can by assembling product at the local 3D printshop. She made more as a combat scout in an online game, playing for a rich man, but she’s had to let the shooter games go. Wilf Netherton lives in London, seventy-some years later, on the far side of decades of slow-motion apocalypse. Things are pretty good now, for the haves, and there aren’t many have-nots left. Wilf, a high-powered publicist and celebrity-minder, fancies himself a romantic misfit, in a society where reaching into the past is just another hobby. Burton’s been moonlighting online, secretly working security in some game prototype, a virtual world that looks vaguely like London, but a lot weirder. He’s got Flynne taking over shifts, promised her the game’s not a shooter. Still, the crime she witnesses there is plenty bad. Flynne and Wilf are about to meet one another. Her world will be altered utterly, irrevocably, and Wilf’s, for all its decadence and power, will learn that some of these third-world types from the past can be badass.",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9780698170704"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0698170709"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 496,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3.5,
+      "ratingsCount": 24,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.5.6.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=SLaQAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=SLaQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=SLaQAwAAQBAJ&printsec=frontcover&dq=william+gibson&hl=&cd=6&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=SLaQAwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SLaQAwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 8.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 8.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=SLaQAwAAQBAJ&rdid=book-SLaQAwAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [{
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 8990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 8990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/The_Peripheral-sample-epub.acsm?id=SLaQAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=SLaQAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "The New York Times bestselling author of Neuromancer and Agency presents a fast-paced sci-fi thriller that takes a terrifying look into the future."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "RkZeR4-1O9EC",
+    "etag": "VCZ+Nh7Ns9E",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/RkZeR4-1O9EC",
+    "volumeInfo": {
+      "title": "Spook Country",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2007-08-07",
+      "description": "The “cool and scary”(San Francisco Chronicle) New York Times bestseller from the author of Pattern Recognition and Neuromancer. • spook (spo͞ok) n.: A specter; a ghost. Slang for “intelligence agent.” • country (ˈkən-trē) n.: In the mind or in reality. The World. The United States of America, New Improved Edition. What lies before you. What lies behind. • spook country (spo͞ok ˈkən-trē) n.: The place where we all have landed, few by choice. The place we are learning to live. Hollis Henry is a journalist, on investigative assignment for a magazine called Node, which doesn’t exist yet. Bobby Chombo apparently does exist, as a producer. But in his day job, Bobby is a troubleshooter for military navigation equipment. He refuses to sleep in the same place twice. He meets no one. And Hollis Henry has been told to find him... “A devastatingly precise reflection of the American zeitgeist.”—The Washington Post Book World",
+      "industryIdentifiers": [{
+          "type": "ISBN_10",
+          "identifier": "1101147288"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9781101147283"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 496,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3,
+      "ratingsCount": 69,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.8.10.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=RkZeR4-1O9EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=RkZeR4-1O9EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=RkZeR4-1O9EC&printsec=frontcover&dq=william+gibson&hl=&cd=7&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=RkZeR4-1O9EC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RkZeR4-1O9EC"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 9.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=RkZeR4-1O9EC&rdid=book-RkZeR4-1O9EC&rdot=1&source=gbs_api",
+      "offers": [{
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Spook_Country-sample-epub.acsm?id=RkZeR4-1O9EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=RkZeR4-1O9EC&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Slang for “intelligence agent.” • country (ˈkən-trē) n.: In the mind or in reality. The World. The United States of America, New Improved Edition. What lies before you. What lies behind. • spook country (spo͞ok ˈkən-trē) n."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "Orw6DwAAQBAJ",
+    "etag": "AC+wkw88/7Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Orw6DwAAQBAJ",
+    "volumeInfo": {
+      "title": "William Gibson's Archangel",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "IDW Publishing",
+      "publishedDate": "2017-11-01",
+      "description": "Science Fiction Superstar William Gibson’s first graphic novel! The U.S. political leaders of 2016 abandon the radioactive planet they’ve destroyed and harness the power of humanity’s last hope: The Splitter, a colossal machine designed to manufacture a bright new reality for them to infiltrate and corrupt.",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9781684063307"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1684063302"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "printType": "BOOK",
+      "categories": [
+        "Comics & Graphic Novels"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.4.4.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": true,
+        "containsImageBubbles": true,
+        "epubBubbleVersion": "a062e6c9f3aff95b",
+        "imageBubbleVersion": "a062e6c9f3aff95b"
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Orw6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Orw6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=Orw6DwAAQBAJ&printsec=frontcover&dq=william+gibson&hl=&cd=8&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=Orw6DwAAQBAJ&dq=william+gibson&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/William_Gibson_s_Archangel.html?hl=&id=Orw6DwAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/William_Gibson_s_Archangel-sample-epub.acsm?id=Orw6DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/William_Gibson_s_Archangel-sample-pdf.acsm?id=Orw6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=Orw6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Science Fiction Superstar William Gibson’s first graphic novel!"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "r8ezxsszSr0C",
+    "etag": "heY2Juk2aCM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/r8ezxsszSr0C",
+    "volumeInfo": {
+      "title": "Idoru",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Penguin",
+      "publishedDate": "2003-01-07",
+      "description": "“The best novel William Gibson has ever written about the world we’re entering daily. Neuromancer made Gibson famous; Idoru cements that fame.”—The Washington Post Book World 21st century Tokyo, after the millennial quake. Neon rain. Light everywhere blowing under any door you might try to close. Where the New Buildings, the largest in the world, erect themselves unaided, their slow rippling movements like the contractions of a sea-creature... Colin Laney is here looking for work. He is an intuitive fisher for patterns of information, the “signature” an individual creates simply by going about the business of living. But Laney knows how to sift for the dangerous bits. Which makes him useful—to certain people. Chia McKenzie is here on a rescue mission. She’s fourteen. Her idol is the singer Rez, of the band Lo/Rez. When the Seattle chapter of the Lo/Rez fan club decided that he might be in trouble in Tokyo, they sent Chia to check it out. Rei Toei is the idoru—the beautiful, entirely virtual media star adored by all Japan. Rez has declared that he will marry her. This is the rumor that has brought Chia to Tokyo. True or not, the idoru and the powerful interests surrounding her are enough to put all their lives in danger...",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9781101158050"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "1101158050"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 400,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 3.5,
+      "ratingsCount": 28,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.1.4.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=r8ezxsszSr0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=r8ezxsszSr0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=r8ezxsszSr0C&printsec=frontcover&dq=william+gibson&hl=&cd=9&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=r8ezxsszSr0C&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r8ezxsszSr0C"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 8.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 8.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=r8ezxsszSr0C&rdid=book-r8ezxsszSr0C&rdot=1&source=gbs_api",
+      "offers": [{
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 8990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 8990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Idoru-sample-epub.acsm?id=r8ezxsszSr0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=r8ezxsszSr0C&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Rez has declared that he will marry her. This is the rumor that has brought Chia to Tokyo. True or not, the idoru and the powerful interests surrounding her are enough to put all their lives in danger."
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "9U3OAgAAQBAJ",
+    "etag": "y7SRpoSpWKE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9U3OAgAAQBAJ",
+    "volumeInfo": {
+      "title": "Burning Chrome",
+      "authors": [
+        "William Gibson"
+      ],
+      "publisher": "Harper Collins",
+      "publishedDate": "2014-04-15",
+      "description": "Best-known for his seminal sf novel Neuromancer, William Gibson is actually best when writing short fiction. Tautly-written and suspenseful, Burning Chrome collects 10 of his best short stories with a preface from Bruce Sterling, now available for the first time in trade paperback. These brilliant, high-resolution stories show Gibson's characters and intensely-realized worlds at his absolute best, from the chip-enhanced couriers of \"Johnny Mnemonic\" to the street-tech melancholy of \"Burning Chrome.\"",
+      "industryIdentifiers": [{
+          "type": "ISBN_13",
+          "identifier": "9780062273017"
+        },
+        {
+          "type": "ISBN_10",
+          "identifier": "0062273019"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": false
+      },
+      "pageCount": 224,
+      "printType": "BOOK",
+      "categories": [
+        "Fiction"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 17,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "1.1.1.0.preview.2",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9U3OAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9U3OAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=9U3OAgAAQBAJ&printsec=frontcover&dq=william+gibson&hl=&cd=10&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=9U3OAgAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9U3OAgAAQBAJ"
+    },
+    "saleInfo": {
+      "country": "US",
+      "saleability": "FOR_SALE",
+      "isEbook": true,
+      "listPrice": {
+        "amount": 10.99,
+        "currencyCode": "USD"
+      },
+      "retailPrice": {
+        "amount": 10.99,
+        "currencyCode": "USD"
+      },
+      "buyLink": "https://play.google.com/store/books/details?id=9U3OAgAAQBAJ&rdid=book-9U3OAgAAQBAJ&rdot=1&source=gbs_api",
+      "offers": [{
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 10990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 10990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }]
+    },
+    "accessInfo": {
+      "country": "US",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com/books/download/Burning_Chrome-sample-epub.acsm?id=9U3OAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": false
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=9U3OAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+      "textSnippet": "Tautly-written and suspenseful, Burning Chrome collects 10 of his best short stories with a preface from Bruce Sterling, now available for the first time in trade paperback."
+    }
+  }
+]
