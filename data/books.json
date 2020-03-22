@@ -1,26 +1,22 @@
 [{
-    "authors": [
-      "William Gibson"
-    ],
-    "_id": "5e765b38bce2e35cf6dd0741",
-    "title": "Agency",
-    "description": "In William Gibson's first novel since 2014's bestselling \"The Peripheral,\" a gifted \"app-whisperer,\" hired to beta test a mysterious new product, finds her life endangered by her relationship with her surprisingly street-smart and combat-savvy digital assistant. Residence: Vancouver, B.C. Print run 150,000.",
-    "publisher": "Berkley",
-    "pages": 416,
-    "image": "http://books.google.com/books/content?id=Os_GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "dateAdded": "2020-03-21T18:21:44.388Z",
+    "_id": "5e775cfc1a95133ff278a34d",
+    "authors": ["Hope Jahren"],
+    "title": "The Story of More",
+    "description": "“Hope Jahren is the voice that science has been waiting for.” —Nature “A superb account of the deadly struggle between humanity and what may prove the only life-bearing planet within ten light years, written in a brilliantly sardonic and conversational style.” —E. O. Wilson “Hope Jahren asks the central question of our time: how can we learn to live on a finite planet? The Story of More is thoughtful, informative, and—above all—essential.” —Elizabeth Kolbert, author of The Sixth Extinction Hope Jahren is an award-winning scientist, a brilliant writer, a passionate teacher, and one of the seven billion people with whom we share this earth. In The Story of More, she illuminates the link between human habits and our imperiled planet. In concise, highly readable chapters, she takes us through the science behind the key inventions—from electric power to large-scale farming to automobiles—that, even as they help us, release greenhouse gases into the atmosphere like never before. She explains the current and projected consequences of global warming—from superstorms to rising sea levels—and the actions that we all can take to fight back. At once an explainer on the mechanisms of global change and a lively, personal narrative given to us in Jahren’s inimitable voice, The Story of More is the essential pocket primer on climate change that will leave an indelible impact on everyone who reads it.",
+    "publisher": "Vintage",
+    "pages": 192,
+    "image": "http://books.google.com/books/content?id=sD6nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "dateAdded": "2020-03-21T18:21:44.389Z",
     "__v": 0
   },
   {
-    "authors": [
-      "William Gibson"
-    ],
-    "_id": "5e765b38bce2e35cf6dd0742",
-    "title": "Pattern Recognition",
-    "description": "Pattern Recognition - a pulsating techno-thriller by William Gibson, bestselling author of Neuromancer Cayce Pollard has been flown to London. She's a 'coolhunter' - her services for hire to global corporations desperate for certainty in a capricious and uncertain world. Now she's been offered a special project: track down the makers of the addictive online film that's lighting up the 'net. Hunting the source will take her to Tokyo and Moscow and put her in the sights of Japanese computer crazies and Russian Mafia men. She's up against those who want to control the film, to own it - who figure breaking the law is just another business strategy. The kind of people who relish turning the hunter into the hunted . . . William Gibson is a prophet and a satirist, a black comedian and an outstanding architect of cool. Readers of Neal Stephenson, Ray Bradbury and Iain M. Banks will love this book. Pattern Recognition is the first novel in the Blue Ant trilogy - read Spook Country and Zero History for more. 'A big novel, full of bold ideas . . . races along like an expert thriller' GQ 'Dangerously hip. Its dialogue and characterization will amaze you. A wonderfully detailed, reckless journey of espionage and lies' USA Today 'A compelling, humane story with a sympathetic heroine searching for meaning and consolation in a post-everything world' Daily Telegraph Idoru is a gripping techno-thriller by William Gibson, bestselling author of Neuromancer 'Fast, witty and cleverly politicized' Guardian",
-    "publisher": "Berkley",
-    "pages": 368,
-    "image": "http://books.google.com/books/content?id=5GvWmQKLchQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "_id": "5e775cfc1a95133ff278a34e",
+    "authors": ["Michelle Obama"],
+    "title": "Becoming",
+    "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America, she helped create the most welcoming and inclusive White House in history. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private. A deeply personal reckoning of a woman of soul and substance who has steadily defied expectations.",
+    "publisher": "Crown Publishing Group (NY)",
+    "pages": 400,
+    "image": "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "dateAdded": "2020-03-21T18:21:44.389Z",
     "__v": 0
   }

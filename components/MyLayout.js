@@ -1,4 +1,3 @@
-import Head from './Head';
 import Header from "./Header";
 
 const layoutStyle = {
@@ -8,13 +7,10 @@ const layoutStyle = {
 };
 
 const Layout = props => (
-  <>
-  <Head />
   <div style={layoutStyle}>
     <Header />
     {props.children}
   </div>
-  </>
 );
 
 export default Layout;

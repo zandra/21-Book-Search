@@ -19,8 +19,8 @@ const BookCard = (props) => (
       </Card.Title>
       <Card.Text style={cardStyle}>
         {props.volume.description}
+        <small className="text-muted">Date Added: {props.volume.dateAdded}</small>
       </Card.Text>
-<small className="text-muted">Date Added: {props.volume.dateAdded}</small>
     </Card.Body>
   </Card>
   );
