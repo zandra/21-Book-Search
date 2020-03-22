@@ -20,16 +20,6 @@ nextApp.prepare().then(() => {
   app.use(bodyParser.json());
   app.use(bodyParser.urlencoded({ extended: true }));
 
-  app.get('/api/books', (req, res) => {
-    Book.find({})
-    .then(data => {
-      res.json(data);
-    })
-    .catch(err => {
-      res.status(400).json(err);
-    });
-  })
-
   app.get('*', (req, res) => {
     return handle(req,res);
   })

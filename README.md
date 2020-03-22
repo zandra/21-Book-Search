@@ -6,7 +6,7 @@ Clone repository
 `git clone https://github.com/zandra/21-Book-Search.git`
 
 Install React and NextJs
-`npm install react react-dom next`
+`npm install --save react react-dom next`
 
-Install Express
-`npm install express mongoose dotenv body-parser`
+Install dependencies
+`npm install express mongoose dotenv body-parser swr`
