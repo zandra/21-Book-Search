@@ -34,8 +34,9 @@ nextApp.prepare().then(() => {
     return handle(req,res);
   })
 
-  app.listen(process.env.PORT, err => {
-    if (err) throw err;
-    console.log(`listening on port ${process.env.PORT}`);
-  })
+  app.set('port', process.env.PORT || 3030);
+
+  const server = app.listen(app.get('port'), () => {
+    console.log(`Express running → PORT ${server.address().port}`);
+  });
 })

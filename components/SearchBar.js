@@ -1,5 +1,5 @@
-return default export SearchBar() {
-  return (
+ const SearchBar = (props) => (
     <div>Search Bar</div>
-  )
-}
+);
+
+export default SearchBar;

@@ -1,4 +1,3 @@
-import Head from './Head';
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 
@@ -8,9 +7,8 @@ const cardStyle = {
   overflow: "auto"
 }
 
-const BookCard =(props) => (
-  <>
-  <Head />
+const BookCard = (props) => (
+
   <Card className="flex-row" style={cardStyle} key={props.id}>
       <Card.Img variant="left" src={props.volume.imageLinks.thumbnail} alt={props.volume.title} />
     <Card.Body>
@@ -25,9 +23,7 @@ const BookCard =(props) => (
       </Card.Text>
         <small className="text-muted">{props.volume.publisher} {props.volume.publishedDate} ({props.volume.pageCount} pages)</small>
     </Card.Body>
-      <Button variant="primary">Remove</Button>
   </Card>
-  </>
   );
 
 export default BookCard;
