@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const savedBookSchema = new mongoose.Schema({
+const bookSchema = new mongoose.Schema({
   title: String,
   authors: [String],
   description: String,
@@ -10,6 +10,6 @@ const savedBookSchema = new mongoose.Schema({
   dateAdded: { type: Date, default: Date.now }
 });
 
-const SavedBook = mongoose.model("Workout", savedBookSchema);
+const Book = mongoose.model("Book", bookSchema);
 
-module.exports = SavedBook;
+module.exports = Book;

@@ -1,5 +1,5 @@
 {
-  "name": "20-Book-Search",
+  "name": "21-Book-Search",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -16,6 +16,8 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js -p $PORT"
+    "start": "NODE_ENV=production node server.js -p $PORT",
+    "seed": "node ./utils/seed.js",
+    "unseed": "node ./utils/seed.js --delete"
   }
 }
