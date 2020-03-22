@@ -20,6 +20,7 @@ nextApp.prepare().then(() => {
   app.use(bodyParser.json());
   app.use(bodyParser.urlencoded({ extended: true }));
 
+  // Hand all route requests to Next via a handle
   app.get('*', (req, res) => {
     return handle(req,res);
   })
