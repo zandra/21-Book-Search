@@ -1,10 +1,10 @@
-import Link from 'next/link';
+import Layout from '../components/MyLayout';
 
 export default function Search() {
   return (
-    <div>
-      <Link href="/"><a>Home</a></Link>
-      <h3>Search for a book!</h3>
-    </div>
-  );
-}
+    <Layout>
+      <h2>Search for a book</h2>
+    </Layout>
+  )
+};
+ 
