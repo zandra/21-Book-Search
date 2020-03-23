@@ -9,18 +9,18 @@ const cardStyle = {
 const SearchResultCard = (props) => (
 
   <Card className="flex-row" style={cardStyle} key={props.id}>
-      <Card.Img variant="left" src={props.volume.imageLinks.thumbnail} alt={props.volume.title} />
+      <Card.Img variant="left" src={props.image}  alt={props.title} />
     <Card.Body>
       <Card.Title>              
-        {props.volume.title}  
+        {props.title}  
           <Card.Subtitle className="mb-2 text-muted">
-            {props.volume.authors}
+            {props.authors}
           </Card.Subtitle>
       </Card.Title>
       <Card.Text style={cardStyle}>
-        {props.volume.description}
+        {props.description}
       </Card.Text>
-        <small className="text-muted">{props.volume.publisher} {props.volume.publishedDate} ({props.volume.pageCount} pages)</small>
+        <small className="text-muted">{props.publisher} {props.publishedDate} ({props.pageCount} pages)</small>
     </Card.Body>
   </Card>
   );

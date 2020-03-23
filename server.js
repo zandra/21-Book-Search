@@ -24,6 +24,7 @@ nextApp.prepare().then(() => {
   app.use(bodyParser.json());
   app.use(bodyParser.urlencoded({ extended: true }));
 
+  // Sanity check db connect outside of Next handler
   app.get('/api/app', (req, res) => {
     Book.find({})
     .then(data => {
@@ -40,7 +41,7 @@ nextApp.prepare().then(() => {
     return handle(req,res);
   })
 
-  app.set('port', process.env.PORT || 3000);
+  app.set('port', process.env.PORT || 3333);
 
   const server = app.listen(app.get('port'), () => {
     console.log(`Express running → PORT ${server.address().port}`);

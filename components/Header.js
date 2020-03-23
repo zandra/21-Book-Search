@@ -7,14 +7,21 @@ const linkStyle = {
 const Header = () => (
   <div>
     <Link href="/">
-      <a style={linkStyle}>Home</a>
-    </Link>
-    <Link href="/saved">
-      <a style={linkStyle}>Saved Books</a>
+      <a>Home</a>
     </Link>
     <Link href="/search">
-      <a style={linkStyle}>Search</a>
+      <a>Search</a>
     </Link>
+    <Link href="/saved">
+      <a>Saved Books</a>
+    </Link>
+    <style jsx>{`
+      a {
+        margin-right: 15px;
+        padding-bottom: 10px;
+        text-decoration: none;
+      }
+    `}</style>
   </div>
 )
 

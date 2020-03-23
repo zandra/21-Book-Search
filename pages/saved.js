@@ -1,16 +1,21 @@
 import Layout from '../components/MyLayout';
 import BookCard from "../components/BookCard";
-import books from "../data/books.json"; 
+import useSWR from 'swr';
 
 
 export default function Saved() {
+  const { data, error } = useSWR( "/api/books", fetch);
+    if (error) return <div>failed to load</div>
+    if (!data) return <div>loading...</div>
+    console.log(data);
   return (
     <Layout>
-      { books.map(book =>
+      {/* { data.map(book =>
       <BookCard 
         volume={book}
       />
-      )}
+      )} */}
+      {JSON.stringify(data)}
     </Layout>
   )
 }
