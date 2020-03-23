@@ -1,10 +1,9 @@
 require('dotenv').config();
-
 const mongoose = require("mongoose");
-mongoose.connect(process.env.DATABASE, {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect(process.env.MONGO_URI, {useNewUrlParser: true, useUnifiedTopology: true});
 mongoose.Promise = global.Promise;
 
-const Book = require("../models/book");
+const Book = require('../models/book');
 
 let bookSeed = [
   {
@@ -22,7 +21,16 @@ let bookSeed = [
     description: "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America, she helped create the most welcoming and inclusive White House in history. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private. A deeply personal reckoning of a woman of soul and substance who has steadily defied expectations.",
     publisher: "Crown Publishing Group (NY)",
     pages: 400,
-    image: "http://books.google.com/books/content?id=5GvWmQKLchQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    image: "http://books.google.com/books/content?id=hi17DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    title: "Eloquent JavaScript",
+    subtitle: "A Modern Introduction to Programming",
+    authors: ["Marijn Haverbeke"],
+    description: "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting.",
+    publisher: "No Starch Press",
+    pages: 224,
+    image: "http://books.google.com/books/content?id=9U5I_tskq9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   }
 ];
 

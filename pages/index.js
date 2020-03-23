@@ -6,7 +6,6 @@ import quotes from "../data/quotes.json";
 export default function Index() {
 
   const quote = quotes[Math.floor(Math.random() * quotes.length)];
-  console.log(quote);
   return (
     <Layout>
       <Hero 

@@ -1,6 +1,7 @@
+// require('dotenv').config();
 module.exports = {
   publicRuntimeConfig: {
-    MONGO_URI: process.env.DATABASE,
-    API_KEY: process.env.GBOOKSAPI
+    API_KEY: process.env.GBOOKSAPI,
+    MONGO_URI: process.env.MONGO_URI
   }
 }
