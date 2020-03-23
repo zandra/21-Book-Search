@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import Layout from '../../components/MyLayout';
 
-export default function MyBook() {
+export default function GoogleBook() {
   const router = useRouter();
 
   return (
