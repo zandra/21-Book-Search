@@ -7,8 +7,7 @@ const cardStyle = {
 }
 
 const SearchResultCard = (props) => (
-
-  <Card className="flex-row" style={cardStyle} key={props.id}>
+  <Card className="flex-row" style={cardStyle}>
       <Card.Img variant="left" src={props.image}  alt={props.title} />
     <Card.Body>
       <Card.Title>              

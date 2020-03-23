@@ -6,7 +6,7 @@ const Spotlight = () => (
     <h2>Spotlight Artist of the Week: <span className="font-weight-bolder">William Gibson</span></h2>
     {data.map(book => (
       < SearchResultCard 
-        id={book.id}
+        key={book.id}
         title={book.volumeInfo.title}
         authors={book.volumeInfo.authors}
         description={book.volumeInfo.description}
