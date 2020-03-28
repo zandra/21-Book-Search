@@ -20,5 +20,8 @@
     "start": "next start",
     "seed": "node ./utils/seed.js",
     "unseed": "node ./utils/seed.js --delete"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
   }
 }
