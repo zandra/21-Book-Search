@@ -1,40 +1,19 @@
-import Link from 'next/link';
-
-const Hero = (props) => (
+export default props => (
   <div className="banner">
     <div className="hero">
-      <div className="container">
-        <div className="row">
-          <div className="col">
-            <blockquote className="blockquote text-right">
-              <p className="mb-0">{props.quote}</p>
-              <footer className="blockquote-footer"><cite title="Source Title">{props.cite}</cite></footer>
-            </blockquote>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col title">
-            <h2 className="title">{props.title}</h2>
-          </div>
-          <div className="col buttons">
-            <Link href="/search">
-              <button type="button" className="btn btn-primary m-1">Book search</button>
-            </Link>
-            <Link href="/saved">
-              <button type="button" className="btn btn-primary">Saved books</button>
-            </Link>
-          </div>
-        </div>
-      {/* container, hero & banner end */}
-      </div>
+      <blockquote className="blockquote text-right">
+        <p className="mb-0">{props.quote}</p>
+        <footer className="blockquote-footer"><cite title="Source Title">{props.cite}</cite></footer>
+      </blockquote>
+    <h2 className='title'>{props.title}</h2>
     </div>
     <style jsx>{`
       .banner {
-        border: 1px solid #DDD;
-        margin-top: 10px;
+        margin: 20px;
       }
       .blockquote {
-        margin-top: 5px;
+        padding-right: 20px;
+        padding-top: 10px;
         font-size: 18px;
       }
       .title {
@@ -46,4 +25,3 @@ const Hero = (props) => (
     </style>
   </div>
   );
-export default Hero;
