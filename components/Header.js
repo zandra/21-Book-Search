@@ -1,16 +1,10 @@
-import Link from 'next/link';
-
-const linkStyle = {
-  marginRight: 15
-};
+import Link from 'next/link'
+import { Fragment } from 'react'
 
 const Header = () => (
-  <div>
+  <Fragment>
     <Link href="/">
       <a>Home</a>
-    </Link>
-    <Link href="/search">
-      <a>Search</a>
     </Link>
     <Link href="/saved">
       <a>Saved Books</a>
@@ -22,7 +16,7 @@ const Header = () => (
         text-decoration: none;
       }
     `}</style>
-  </div>
+  </Fragment>
 )
 
 export default Header;

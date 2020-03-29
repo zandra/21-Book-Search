@@ -1,46 +1,50 @@
-import { useState, useRef } from 'react'
+import Link from 'next/link'
+import { useState, useRef, useEffect } from 'react'
 import { InputGroup, FormControl, Button } from 'react-bootstrap'
 import Layout from '../components/MyLayout'
 import Spotlight from "../components/Spotlight";
 import SearchResultCard from '../components/SearchResultCard'
 import fetch from 'isomorphic-unfetch'
 import getConfig from 'next/config'
+import quotes from "../data/quotes.json";
+
+const quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 const { publicRuntimeConfig } = getConfig();
 const { API_KEY } = publicRuntimeConfig;
 
-const Index = (props) => {
+export default function Index(props) {
   const [results, setResults] = useState();
-  
-  const fetchSearchResults = async(search) => {
-    const res = await fetch (`https://www.googleapis.com/books/v1/volumes?q=${search}&key=${API_KEY}`);
-    const data = await res.json();
-    setResults(data.items)
-    } 
+  // Holds the user input from search input
+  const inputRef = useRef();
+
+const fetchSearchResults = async(search) => {
+  const res = await fetch (`https://www.googleapis.com/books/v1/volumes?q=${search}&key=${API_KEY}`);
+  const data = await res.json();
+  setResults(data)
+} 
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    fetchSearchResults(inputRef.current.value)
+  }
     
-    // Holds the user input from search input
-    const inputRef = useRef();
-  
-    const onSubmit = () => {
-      fetchSearchResults(inputRef.current.value)
-    }
   return (
-    <Layout title="Google Books Search">
+    <Layout title="Google Book Search" quoteText={quote.text} quoteAuthor={quote.author} >
       <InputGroup className="mb-3 mr-sm-2">
         <InputGroup.Prepend>
-          <InputGroup.Text id="googlbookSearch">Google Books</InputGroup.Text>
+          <InputGroup.Text>Google Books</InputGroup.Text>
         </InputGroup.Prepend>
         <FormControl
-          onSubmit={() => onSubmit()}
           aria-label="Search Input"
           aria-describedby="googlbook-search-input"
           placeholder="Search"
           ref={inputRef}
         />
-        <Button variant="primary" type="submit" onClick={()=> onSubmit()}>Search</Button>
+        <Button variant="primary" className="ml-1" type="submit" onClick={()=> handleSubmit(event)}>Search</Button>
       </InputGroup>
 
-      {results ? results.map(book => (
+      {results && results.length > 1 ? results.map(book => (
         < SearchResultCard 
         key={book.id}
         id={book.id}
@@ -52,8 +56,7 @@ const Index = (props) => {
         pageCount={book.volumeInfo.pageCount ? book.volumeInfo.pageCount : ""}
         image={book.volumeInfo.imageLinks ? book.volumeInfo.imageLinks.thumbnail : "https://via.placeholder.com/128x193"}
         />
-      )) : <Spotlight />}
+      )) : <Spotlight author="William Gibson"/>}
     </Layout>
   );
- }
-export default Index;
+ };

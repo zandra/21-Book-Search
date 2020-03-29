@@ -1,20 +1,21 @@
-import SearchResultCard from "./SearchResultCard";
-import data from '../data/gibson.json';
+import SearchResultCard from "./SearchResultCard"
+import data from '../data/gibson.json'
 
-const Spotlight = () => (
+const Spotlight = ({author}) => (
   <div className="spotlight">
-    <h2>Spotlight Artist of the Week: <span className="font-weight-bolder">William Gibson</span></h2>
+    <h2>Spotlight Artist of the Month: <span className="font-weight-bolder">{author}</span></h2>
     {data.map(book => (
-      < SearchResultCard 
-        key={book.id}
-        title={book.volumeInfo.title}
-        authors={book.volumeInfo.authors}
-        description={book.volumeInfo.description}
-        publisher={book.volumeInfo.publisher}
-        publishedDate={book.volumeInfo.publishedDate}
-        pageCount={book.volumeInfo.pageCount}
-        image={book.volumeInfo.imageLinks.thumbnail}
-      />
+        < SearchResultCard 
+          key={book.id}
+          id={book.id}
+          title={book.volumeInfo.title}
+          authors={book.volumeInfo.authors}
+          description={book.volumeInfo.description}
+          publisher={book.volumeInfo.publisher}
+          publishedDate={book.volumeInfo.publishedDate}
+          pageCount={book.volumeInfo.pageCount}
+          image={book.volumeInfo.imageLinks.thumbnail}
+        />
     ))}
 
     <style jsx>

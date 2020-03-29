@@ -1,14 +1,15 @@
 import Card from 'react-bootstrap/Card';
 
-const cardStyle = {
+const styles = {
+  card: {
   maxHeight: 200,
   margin: 5,
   overflow: "auto"
+  }
 }
 
 const BookCard = (props) => (
-
-  <Card className="flex-row" style={cardStyle} key={props.volume.id}>
+  <Card className="flex-row" style={styles.card} key={props.volume.id}>
       <Card.Img variant="left" src={props.volume.image} alt={props.volume.title} />
     <Card.Body>
       <Card.Title>              
